@@ -6,4 +6,4 @@ This one is super simple and all inline. Feel free to break apart into appropria
 - Download files
 - Add your ChatGPT API to the code by replacing: YOUR_API_KEY
 
-To see a demo, this is being used on https://seventytwo.app
+To see a demo, this is being used on https://freegptchatbot.com
